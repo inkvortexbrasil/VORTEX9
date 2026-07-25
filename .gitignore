@@ -1,0 +1,16 @@
+# Antigravity & Environment
+.env
+api-server/.env
+*.log
+node_modules/
+
+# Keep all project assets, gallery, wallpapers, prompts, and audio!
+!palco/
+!galeria/
+!gpt/
+!gemini/
+!flow/
+!fonts/
+!css/
+!js/
+!api-server/
