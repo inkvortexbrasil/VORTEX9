@@ -1,0 +1,3 @@
+0s/11s - F:\VORTEX9\render\ID\gpt - 01  +  F:\VORTEX9\render\ID\flow - master
+11s/46s - F:\VORTEX9\render\ID\gpt - 01+02+03+04+05      +  F:\VORTEX9\render\ID\gemini - 01+02+03+04+05
+46s/60s - F:\VORTEX9\render\logo - VIDEO LOGO OFICIAL  +  F:\VORTEX9\render\cta - 01
